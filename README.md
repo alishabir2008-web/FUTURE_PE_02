@@ -1,2 +1,18 @@
-# FUTURE_PE_02
-FUTURE_PE_02  Internship Project – Prompt Engineering Fellowship  This repository contains the project work for the Prompt Engineering Internship under the Future Interns Fellowship Program. The goal of this project is to explore prompt design, improve AI interaction skills, and gain practical experience in AI/ML applications.
+AI Website Copy Generator for Local Businesses
+
+This project demonstrates how structured AI prompts can generate
+clear, conversion-focused website copy for local businesses.
+
+Business Used:
+Glow & Go Salon, Andheri West, Mumbai
+
+Tool Used:
+ChatGPT
+
+Generated Content Includes:
+- Homepage copy
+- Services page content
+- Call-to-action sections
+
+The prompt system is reusable for salons, cafes, clinics,
+coaching institutes, and small agencies.

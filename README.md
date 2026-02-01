@@ -1,3 +1,4 @@
+TASK -01
 AI Website Copy Generator for Local Businesses
 
 This project demonstrates how structured AI prompts can generate
@@ -16,3 +17,11 @@ Generated Content Includes:
 
 The prompt system is reusable for salons, cafes, clinics,
 coaching institutes, and small agencies.
+TASK -02
+AI Content Marketing using UGC Ads
+Brand: Dot & Key
+Industry: D2C Skincare (India)
+Product: Barrier Repair Serum
+Target Audience: 18–30 years, sensitive / damaged skin barrier
+Primary Platform: Instagram Reels
+Ad Goal: Create high-converting UGC-style paid ad scripts using AI

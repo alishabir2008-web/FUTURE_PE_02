@@ -18,21 +18,35 @@ Generated Content Includes:
 The prompt system is reusable for salons, cafes, clinics,
 coaching institutes, and small agencies.
 TASK -02
-AI Content Marketing using UGC Ads
-Brand: Dot & Key
-Industry: D2C Skincare (India)
-Product: Barrier Repair Serum
-Target Audience: 18–30 years, sensitive / damaged skin barrier
-Primary Platform: Instagram Reels
-Ad Goal: Create high-converting UGC-style paid ad scripts using AI
-Why This Product Works (For Evaluators)
+# AI UGC Ad Content Pack – Dot & Key Barrier Repair Serum
 
-Barrier repair = real skin problem
+## Overview
+This project demonstrates AI-powered UGC ad creation for Dot & Key’s Barrier Repair Serum.
+The goal: generate high-converting, authentic short-form ads for Instagram Reels.
 
-Easy to show problem → solution → result
+## Tools Used
+- ChatGPT / Claude / Google Gemini
+- GitHub for organizing prompts & outputs
 
-Perfect for honest UGC tone
+## Target Audience
+- Age: 18–30
+- Sensitive / damaged skin barrier
+- Users frustrated with redness, irritation, and weak skin barrier
 
-Popular among Gen Z skincare users
+## Customer Problems
+- Skin irritation and redness
+- Burning or stinging after skincare
+- Weak skin barrier due to overuse of actives
 
-This already makes your submission stronger than generic picks.
+## Emotional Triggers
+- Fear of damaging skin further
+- Frustration from failed skincare attempts
+- Desire for gentle and trustworthy products
+
+## Desired Results
+- Calm, soothed, and healthy skin
+- Reduced redness and irritation
+- Stronger skin barrier
+
+## Folder Structure
+

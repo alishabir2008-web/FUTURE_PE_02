@@ -1,22 +1,30 @@
-TASK -01
-AI Website Copy Generator for Local Businesses
+#  AI Website Copy Generator for Local Businesses
+This project showcases how structured prompt engineering can be used to generate clear, persuasive, and conversion-focused website copy for local businesses using AI.
 
-This project demonstrates how structured AI prompts can generate
-clear, conversion-focused website copy for local businesses.
+Instead of writing website content manually, this system uses reusable AI prompts to produce high-quality copy that helps businesses attract customers and increase inquiries.
+ Business Used (Real-World Example)
+Glow & Go Salon
+ Andheri West, Mumbai
 
-Business Used:
-Glow & Go Salon, Andheri West, Mumbai
+All generated content is written as if it will go live on the salon’s actual website, following real business needs and customer intent.
+Objective
 
-Tool Used:
-ChatGPT
+To design an AI-powered prompt system that can:
+Generate professional website copy for local businesses
+Improve clarity, trust, and conversions
+Save time while maintaining human-like quality
+Be reused across multiple business types
 
-Generated Content Includes:
-- Homepage copy
-- Services page content
-- Call-to-action sections
+Tool Used:ChatGPT 
 
-The prompt system is reusable for salons, cafes, clinics,
-coaching institutes, and small agencies.
+Each section is written with a customer-first approach, focusing on benefits, simplicity, and action.
+
+ Reusability & Scalability
+The same prompt framework can be easily adapted for:
+Salons & spas
+Cafes & restaurants
+Only the business name, location, and services need to be changed.
+
 TASK -02
 # AI UGC Ad Content Pack – Dot & Key Barrier Repair Serum
 

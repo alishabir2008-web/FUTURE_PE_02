@@ -50,3 +50,30 @@ The goal: generate high-converting, authentic short-form ads for Instagram Reels
 
 ## Folder Structure
 
+TASK-03
+# AI SEO Blog & Content Cluster Generator
+
+## Project Overview
+This project shows how AI and prompt engineering can be used to create
+SEO-optimized blog content for local businesses.
+
+## Business Chosen
+Digital Marketing Agency in Mumbai
+
+## What I Built
+- 1 SEO pillar blog
+- 3 supporting blogs (content cluster)
+- Keyword and search intent mapping
+- Local SEO focused content
+- Internal linking strategy
+
+## Tools Used
+- ChatGPT
+- Google Docs
+- GitHub
+
+## Outcome
+This system helps businesses rank better on Google,
+build authority, and generate leads using structured AI prompts.
+
+

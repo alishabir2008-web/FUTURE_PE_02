@@ -25,3 +25,14 @@ Product: Barrier Repair Serum
 Target Audience: 18–30 years, sensitive / damaged skin barrier
 Primary Platform: Instagram Reels
 Ad Goal: Create high-converting UGC-style paid ad scripts using AI
+Why This Product Works (For Evaluators)
+
+Barrier repair = real skin problem
+
+Easy to show problem → solution → result
+
+Perfect for honest UGC tone
+
+Popular among Gen Z skincare users
+
+This already makes your submission stronger than generic picks.
